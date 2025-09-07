@@ -482,7 +482,7 @@ func main() {
    ║   │ 22.00 │ https://public.simplyblk.xyz/22.00.7z             │   ║
    ║   └───────┴───────────────────────────────────────────────────┘   ║
    ║                                                                   ║
-   ║ * Season 21                                                       ║
+   ║ * Season 23                                                       ║
    ║   ┌───────┬───────────────────────────────────────────────────┐   ║
    ║   │ Build │                  Downlaod Links                   │   ║
    ║   ├───────┼───────────────────────────────────────────────────┤   ║
@@ -778,3 +778,4 @@ func clearConsole() {
 		fmt.Println("Unable to clear console. Unsupported operating system.")
 	}
 }
+
