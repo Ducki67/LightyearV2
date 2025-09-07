@@ -22,5 +22,8 @@ Made of the original Lightyear but with some more stuff. | credits to: simplyzet
 
 Builds Up to 23.50 btw.
 
+so yea C4S1 :P
+<img width="720" height="327" alt="Képernyőkép 2025-09-07 152236" src="https://github.com/user-attachments/assets/650c21a8-86c3-4223-9aaa-468345e70cdd" />
+
 
 </details>
