@@ -1,6 +1,37 @@
 # LightyearV2
 Made of the original Lightyear but with some more stuff. | credits to: simplyzetax
 
+<img width="254" height="137" alt="Képernyőkép 2025-09-07 152438" src="https://github.com/user-attachments/assets/1c47c8ea-8d68-4ffd-9b92-232cd9756522" />
+
+
+Open source Fortnite launcher written in Golang!
+
+To use with your own Cobalt dll or Starfall replace url in main.go with your own.
+
+## How to build: 
+
+- Download Go from [here](https://go.dev/dl/go1.20.5.windows-amd64.msi)
+- Download the source code
+- Extract zip file
+- Open build.bat
+
+Now you have a file called lightyear.exe, this is the launcher. Have fun!
+
+## How to use your own Cobalt dll / Starfall dll
+
+- Start the launcher
+- Exit the launcher
+- Open `redirect.json` in the same folder as the launcher
+- Change `name` to your dll name
+- Change `download` to the url of your dll
+
+Now zip your .exe into a zip file with the redirect.json in the same folder as the launcher if you want to share it with others for use.
+
+## Some info
+Currently this lancher is NOT remotely joining to any backends.
+
+Maybe just maybe ill add it. ( ig )
+
 <details>
   
   <br>
@@ -8,7 +39,7 @@ Made of the original Lightyear but with some more stuff. | credits to: simplyzet
 <summary>Looking for preview images? Click here!</summary>
 
 # Main UI 
-`Added options 4 and 5.
+`Added options 4 and 5.`
 <img width="1111" height="620" alt="Képernyőkép 2025-09-07 151304" src="https://github.com/user-attachments/assets/cfb70cb9-4daf-4b32-a526-6f0ce593c208" />
 
 # Info tab
